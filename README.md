@@ -1,6 +1,7 @@
 # SIGET
 
 ## Système d'Information de Gestion de Transports
+
 ![logo du projet](logo.png "SIGET_logo")
 
 ## Cahier des charges
@@ -40,9 +41,21 @@ Le collaborateur n’est pas l’organisateur de ces covoiturages, il est passag
 
 Je peux visualiser les réservations en cours et l’historique des réservations.
 
-Un covoiturage est constitué de : - Une date heure de départ - Une adresse de départ - Une adresse d’arrivée - Un véhicule (excepté véhicule de service) - Un nombre de places restantes
+Un covoiturage est constitué de :
 
-Je peux effectuer les actions suivantes: - Cliquer sur le détail d’une réservation (en cours ou historique) ce qui permet d’afficher les informations complémentaires suivantes : - Véhicule (marque, modèle, nb de places d’origine, immatriculation) => voir pour rattacher le véhicule perso à son profil afin de ne pas ressaisir les mêmes infos à chaque fois. - Organisateur - Liste des autres passagers - Annuler une réservation de covoiturage, ce qui me sort de la liste des passagers et libère une place sur le covoiturage.
+- Une date heure de départ
+- Une adresse de départ
+- Une adresse d’arrivée
+- Un véhicule (excepté véhicule de service)
+- Un nombre de places restantes
+
+Je peux effectuer les actions suivantes:
+
+- Cliquer sur le détail d’une réservation (en cours ou historique) ce qui permet d’afficher les informations complémentaires suivantes :
+  - Véhicule (marque, modèle, nb de places d’origine, immatriculation) => voir pour rattacher le véhicule perso à son profil afin de ne pas ressaisir les mêmes infos à chaque fois.
+  - Organisateur
+  - Liste des autres passagers
+- Annuler une réservation de covoiturage, ce qui me sort de la liste des passagers et libère une place sur le covoiturage.
 
 ### Réserver sur un covoiturage
 
