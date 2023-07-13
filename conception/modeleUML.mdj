@@ -372,9 +372,9 @@
 											"fillColor": "#0055ff",
 											"font": "Arial;13;1",
 											"left": 701,
-											"top": 1439,
+											"top": 1432.5,
 											"width": 103,
-											"height": 52,
+											"height": 65,
 											"text": "Visualisation de la liste de  MES réservations de type covoiturage",
 											"wordWrap": true
 										},
@@ -411,9 +411,9 @@
 									"fillColor": "#0055ff",
 									"font": "Arial;13;0",
 									"left": 696,
-									"top": 1432,
+									"top": 1425.5,
 									"width": 113,
-									"height": 64,
+									"height": 77,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGJRocpZT+EWLE="
 									},
@@ -585,9 +585,9 @@
 											"fillColor": "#0055ff",
 											"font": "Arial;13;1",
 											"left": 700,
-											"top": 1326.5,
+											"top": 1320,
 											"width": 137,
-											"height": 13,
+											"height": 26,
 											"text": "Réserver un covoiturag",
 											"wordWrap": true
 										},
@@ -624,9 +624,9 @@
 									"fillColor": "#0055ff",
 									"font": "Arial;13;0",
 									"left": 695,
-									"top": 1319.5,
+									"top": 1313,
 									"width": 147,
-									"height": 25,
+									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGJRoe0WD+3iIk="
 									},
@@ -838,7 +838,7 @@
 									"font": "Arial;13;0",
 									"left": 1082.5,
 									"top": 1428.5,
-									"width": 87,
+									"width": 88.00634765625,
 									"height": 64,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGJRogOkz/n904="
@@ -1051,7 +1051,7 @@
 									"font": "Arial;13;0",
 									"left": 724,
 									"top": 1783,
-									"width": 95,
+									"width": 95.96630859375,
 									"height": 77,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGJRohY7UAZPSA="
@@ -1264,7 +1264,7 @@
 									"font": "Arial;13;0",
 									"left": 1089.5,
 									"top": 1978,
-									"width": 83,
+									"width": 83.68359375,
 									"height": 51,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGJRoivVkBLsPY="
@@ -1477,7 +1477,7 @@
 									"font": "Arial;13;0",
 									"left": 1073.5,
 									"top": 1576,
-									"width": 83,
+									"width": 83.68359375,
 									"height": 64,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGJRokMdEB9iXA="
@@ -1690,7 +1690,7 @@
 									"font": "Arial;13;0",
 									"left": 1081.5,
 									"top": 1808,
-									"width": 83,
+									"width": 83.68359375,
 									"height": 64,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGJRolcbkCw7PQ="
@@ -2329,7 +2329,7 @@
 									"font": "Arial;13;0",
 									"left": 1097,
 									"top": 1023,
-									"width": 79,
+									"width": 80.0908203125,
 									"height": 77,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGJRopYTkFFPyA="
@@ -2542,7 +2542,7 @@
 									"font": "Arial;13;0",
 									"left": 1105,
 									"top": 842,
-									"width": 79,
+									"width": 80.0908203125,
 									"height": 90,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGJRor8/UGqMpc="
@@ -2755,7 +2755,7 @@
 									"font": "Arial;13;0",
 									"left": 1101,
 									"top": 210,
-									"width": 61,
+									"width": 62.025390625,
 									"height": 51,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGJRos46UHaxvU="
@@ -3725,7 +3725,7 @@
 									"font": "Arial;13;0",
 									"left": 735,
 									"top": 1615,
-									"width": 71,
+									"width": 72.12451171875,
 									"height": 77,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGJRqSs/0Yewk4="
@@ -4834,9 +4834,9 @@
 											"fillColor": "#c6c6c6",
 											"font": "Arial;13;1",
 											"left": 1491.5,
-											"top": 1382,
+											"top": 1375.5,
 											"width": 98,
-											"height": 13,
+											"height": 26,
 											"text": "envoyer un mail",
 											"wordWrap": true
 										},
@@ -4873,9 +4873,9 @@
 									"fillColor": "#c6c6c6",
 									"font": "Arial;13;0",
 									"left": 1486.5,
-									"top": 1375,
+									"top": 1368.5,
 									"width": 108,
-									"height": 25,
+									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGJRrhL1nC8QLw="
 									},
@@ -5651,7 +5651,7 @@
 									"font": "Arial;13;0",
 									"left": 1089,
 									"top": 1156.5,
-									"width": 79,
+									"width": 80.0908203125,
 									"height": 64,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGJRr2TAoedzPk="
@@ -7011,7 +7011,7 @@
 									"font": "Arial;13;0",
 									"left": 1086.5,
 									"top": 354.5,
-									"width": 106,
+									"width": 106.79541015625,
 									"height": 51,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGJRsalsMjKupo="
@@ -7472,9 +7472,9 @@
 											"fillColor": "#00b799",
 											"font": "Arial;13;1",
 											"left": 1101,
-											"top": 516,
+											"top": 509.5,
 											"width": 67,
-											"height": 26,
+											"height": 39,
 											"text": "supprilmer un véhicule",
 											"wordWrap": true
 										},
@@ -7511,9 +7511,9 @@
 									"fillColor": "#00b799",
 									"font": "Arial;13;0",
 									"left": 1096,
-									"top": 509,
-									"width": 77,
-									"height": 38,
+									"top": 502.5,
+									"width": 77.18359375,
+									"height": 51,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGJRsi3DeC9x4M="
 									},
@@ -9548,7 +9548,7 @@
 											"font": "Arial;13;0",
 											"left": 335,
 											"top": 860.5,
-											"width": 110,
+											"width": 110.38818359375,
 											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGJRzC0ghzWMHs="
@@ -10186,7 +10186,7 @@
 											"font": "Arial;13;0",
 											"left": 1290.5,
 											"top": 1676.5,
-											"width": 87,
+											"width": 88.00634765625,
 											"height": 64,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGJRzC0gxz3l3Y="
@@ -10612,7 +10612,7 @@
 											"font": "Arial;13;0",
 											"left": 1321.5,
 											"top": 2402,
-											"width": 83,
+											"width": 83.68359375,
 											"height": 51,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGJRzC0gx0NFo4="
@@ -10825,7 +10825,7 @@
 											"font": "Arial;13;0",
 											"left": 1305.5,
 											"top": 1984,
-											"width": 83,
+											"width": 83.68359375,
 											"height": 64,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGJRzC0gx0YHwg="
@@ -11038,7 +11038,7 @@
 											"font": "Arial;13;0",
 											"left": 1313.5,
 											"top": 2208,
-											"width": 83,
+											"width": 83.68359375,
 											"height": 64,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGJRzC0gx0jTzI="
@@ -11424,9 +11424,9 @@
 													"fillColor": "#ff8056",
 													"font": "Arial;13;1",
 													"left": 813,
-													"top": 1018.5,
+													"top": 1012,
 													"width": 221,
-													"height": 13,
+													"height": 26,
 													"text": "Réservation d’un véhicule de service",
 													"wordWrap": true
 												},
@@ -11463,9 +11463,9 @@
 											"fillColor": "#ff8056",
 											"font": "Arial;13;0",
 											"left": 808,
-											"top": 1011.5,
+											"top": 1005,
 											"width": 231,
-											"height": 25,
+											"height": 38,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGJRzC0hB05JGA="
 											},
@@ -11677,7 +11677,7 @@
 											"font": "Arial;13;0",
 											"left": 1289,
 											"top": 1167,
-											"width": 79,
+											"width": 80.0908203125,
 											"height": 77,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGJRzC0hB1Exu0="
@@ -11890,7 +11890,7 @@
 											"font": "Arial;13;0",
 											"left": 1297,
 											"top": 978,
-											"width": 79,
+											"width": 80.0908203125,
 											"height": 90,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGJRzC0hB1PBWM="
@@ -12103,7 +12103,7 @@
 											"font": "Arial;13;0",
 											"left": 1245,
 											"top": 202,
-											"width": 61,
+											"width": 62.025390625,
 											"height": 51,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGJRzC0hB1aAVs="
@@ -12489,9 +12489,9 @@
 													"fillColor": "#ffca2b",
 													"font": "Arial;13;1",
 													"left": 354,
-													"top": 930,
+													"top": 923.5,
 													"width": 51,
-													"height": 39,
+													"height": 52,
 													"text": "le menu s'adapte au profil",
 													"wordWrap": true
 												},
@@ -12528,9 +12528,9 @@
 											"fillColor": "#ffca2b",
 											"font": "Arial;13;0",
 											"left": 349,
-											"top": 923,
-											"width": 61,
-											"height": 51,
+											"top": 916.5,
+											"width": 62.22216796875,
+											"height": 64,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGJRzC0hB1wvY0="
 											},
@@ -14507,9 +14507,9 @@
 													"fillColor": "#c6c6c6",
 													"font": "Arial;13;1",
 													"left": 2083.5,
-													"top": 1246,
+													"top": 1239.5,
 													"width": 98,
-													"height": 13,
+													"height": 26,
 													"text": "envoyer un mail",
 													"wordWrap": true
 												},
@@ -14546,9 +14546,9 @@
 											"fillColor": "#c6c6c6",
 											"font": "Arial;13;0",
 											"left": 2078.5,
-											"top": 1239,
+											"top": 1232.5,
 											"width": 108,
-											"height": 25,
+											"height": 38,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGJRzC0hh3Rmds="
 											},
@@ -15384,7 +15384,7 @@
 											"font": "Arial;13;0",
 											"left": 1281,
 											"top": 1308.5,
-											"width": 79,
+											"width": 80.0908203125,
 											"height": 64,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGJRzC0hh36VBc="
@@ -16806,7 +16806,7 @@
 											"font": "Arial;13;0",
 											"left": 1222.5,
 											"top": 378.5,
-											"width": 106,
+											"width": 106.79541015625,
 											"height": 51,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGJRzC0hx49wUs="
