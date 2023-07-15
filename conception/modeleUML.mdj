@@ -21707,7 +21707,7 @@
 									"font": "Arial;13;0",
 									"left": -4712,
 									"top": -2922,
-									"width": 10,
+									"width": 73.2353515625,
 									"height": 10
 								},
 								{
@@ -21933,7 +21933,7 @@
 							"left": 280,
 							"top": 272,
 							"width": 199.02685546875,
-							"height": 166,
+							"height": 181,
 							"showProperty": false,
 							"nameCompartment": {
 								"$ref": "AAAAAAGJTCQvI2D8n04="
@@ -26116,7 +26116,7 @@
 									},
 									"fillColor": "#ff0000",
 									"font": "Arial;13;0",
-									"left": 228.68359375,
+									"left": 229.39453125,
 									"top": 37,
 									"width": 154.66064453125,
 									"height": 13,
@@ -26132,7 +26132,7 @@
 									"font": "Arial;13;1",
 									"left": 197,
 									"top": 37,
-									"width": 22.68359375,
+									"width": 23.39453125,
 									"height": 13,
 									"text": "link"
 								}
