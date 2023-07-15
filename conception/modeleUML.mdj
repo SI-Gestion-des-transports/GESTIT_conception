@@ -33,7 +33,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGJT6692fO4ero="
 					},
-					"name": "Voir LES covoiturages disponibles",
+					"name": "UC4 : Afficher les covoiturages enregistrés",
 					"ownedElements": [
 						{
 							"_type": "UMLUseCase",
@@ -41,7 +41,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGJT6694vWWiFE="
 							},
-							"name": "Réserver covoiturage",
+							"name": "UC5 : Réserver covoiturage",
 							"ownedElements": [
 								{
 									"_type": "UMLExtend",
@@ -66,7 +66,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGJT6692fO4ero="
 					},
-					"name": "Voir MES réservations",
+					"name": "UC3 - Voir MES réservations",
 					"ownedElements": [
 						{
 							"_type": "UMLUseCase",
@@ -1378,10 +1378,10 @@
 											"fillColor": "#adc8ff",
 											"font": "Arial;13;1",
 											"left": 1910.5,
-											"top": 660,
+											"top": 653.5,
 											"width": 73,
-											"height": 26,
-											"text": "Réserver covoiturage",
+											"height": 39,
+											"text": "UC5 : Réserver covoiturage",
 											"wordWrap": true
 										},
 										{
@@ -1395,9 +1395,9 @@
 											"font": "Arial;13;0",
 											"left": 2912,
 											"top": 752,
-											"width": 234.83154296875,
+											"width": 284.41943359375,
 											"height": 13,
-											"text": "(from Voir LES covoiturages disponibles)"
+											"text": "(from UC4 : Afficher les covoiturages enregistrés)"
 										},
 										{
 											"_type": "LabelView",
@@ -1417,9 +1417,9 @@
 									"fillColor": "#adc8ff",
 									"font": "Arial;13;0",
 									"left": 1905.5,
-									"top": 653,
+									"top": 646.5,
 									"width": 83.68359375,
-									"height": 38,
+									"height": 51,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGJT6692fPPolY="
 									},
@@ -1591,10 +1591,10 @@
 											"fillColor": "#568eff",
 											"font": "Arial;13;1",
 											"left": 1572.5,
-											"top": 582.5,
+											"top": 576,
 											"width": 216,
-											"height": 13,
-											"text": "Voir LES covoiturages disponibles",
+											"height": 26,
+											"text": "UC4 : Afficher les covoiturages enregistrés",
 											"wordWrap": true
 										},
 										{
@@ -1630,9 +1630,9 @@
 									"fillColor": "#568eff",
 									"font": "Arial;13;0",
 									"left": 1567.5,
-									"top": 575.5,
+									"top": 569,
 									"width": 226,
-									"height": 25,
+									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGJT6692fPab8g="
 									},
@@ -1823,7 +1823,7 @@
 											"top": 624,
 											"width": 221.38720703125,
 											"height": 13,
-											"text": "(from Voir MES réservations)"
+											"text": "(from UC3 - Voir MES réservations)"
 										},
 										{
 											"_type": "LabelView",
@@ -3099,7 +3099,7 @@
 											"font": "Arial;13;0",
 											"left": 1648,
 											"top": 1312,
-											"width": 221.38720703125,
+											"width": 249.86279296875,
 											"height": 13,
 											"text": "(from Lister réservation)"
 										},
@@ -3149,7 +3149,7 @@
 									"visible": false,
 									"fillColor": "#25d9bc",
 									"font": "Arial;13;0",
-									"left": 648,
+									"left": 712,
 									"top": 680,
 									"width": 10,
 									"height": 10
@@ -3166,7 +3166,7 @@
 									"visible": false,
 									"fillColor": "#25d9bc",
 									"font": "Arial;13;0",
-									"left": 648,
+									"left": 712,
 									"top": 680,
 									"width": 10,
 									"height": 10
@@ -3183,7 +3183,7 @@
 									"visible": false,
 									"fillColor": "#25d9bc",
 									"font": "Arial;13;0",
-									"left": 648,
+									"left": 712,
 									"top": 680,
 									"width": 10,
 									"height": 10
@@ -3200,7 +3200,7 @@
 									"visible": false,
 									"fillColor": "#25d9bc",
 									"font": "Arial;13;0",
-									"left": 648,
+									"left": 712,
 									"top": 680,
 									"width": 10,
 									"height": 10
@@ -3217,7 +3217,7 @@
 									"visible": false,
 									"fillColor": "#25d9bc",
 									"font": "Arial;13;0",
-									"left": 648,
+									"left": 712,
 									"top": 680,
 									"width": 10,
 									"height": 10
@@ -3312,7 +3312,7 @@
 											"font": "Arial;13;0",
 											"left": 720,
 											"top": 1616,
-											"width": 221.38720703125,
+											"width": 249.86279296875,
 											"height": 13,
 											"text": "(from Lister réservation)"
 										},
@@ -3525,7 +3525,7 @@
 											"font": "Arial;13;0",
 											"left": 1616,
 											"top": 1424,
-											"width": 221.38720703125,
+											"width": 249.86279296875,
 											"height": 13,
 											"text": "(from Lister réservation)"
 										},
@@ -8723,7 +8723,7 @@
 											"top": 702.5,
 											"width": 200,
 											"height": 13,
-											"text": "Voir MES réservations",
+											"text": "UC3 - Voir MES réservations",
 											"wordWrap": true
 										},
 										{
@@ -9535,7 +9535,7 @@
 											"top": 1040,
 											"width": 221.38720703125,
 											"height": 13,
-											"text": "(from Voir MES réservations)"
+											"text": "(from UC3 - Voir MES réservations)"
 										},
 										{
 											"_type": "LabelView",
@@ -26116,7 +26116,7 @@
 									},
 									"fillColor": "#ff0000",
 									"font": "Arial;13;0",
-									"left": 229.39453125,
+									"left": 228.68359375,
 									"top": 37,
 									"width": 154.66064453125,
 									"height": 13,
@@ -26132,7 +26132,7 @@
 									"font": "Arial;13;1",
 									"left": 197,
 									"top": 37,
-									"width": 23.39453125,
+									"width": 22.68359375,
 									"height": 13,
 									"text": "link"
 								}
